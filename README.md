@@ -3,7 +3,7 @@
 A Python-based corporate credit rating simulator built on banking industry standards, calculating Probability of Default (PD) and assigning credit ratings based on quantitative and qualitative financial analysis.
 
 ## Live Demo
-[🚀 Launch App](여기에 Streamlit 링크 붙여넣기)
+[🚀 Launch App](https://corporate-credit-rating-system-a3vbbynycekxr6aptpnacw.streamlit.app/)
 
 ## Features
 - **Quantitative Scoring (60%)** — 7 financial indicators including debt ratio, EBITDA, and liquidity
